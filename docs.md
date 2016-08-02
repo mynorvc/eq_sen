@@ -1,29 +1,38 @@
 #**Documents CEQ**
   * Manual September 2013
-  * Workbook
+  
+#* Workbook
     * Original Version 
     * UPDATES
       * ...
-  
+
+#* Papers & Reports 
+
+#* Description of Programs and Taxes
+  * Taxes & Social Security Contributions
+  * Direct Transfers
+  * Subsidies
+  * In-Kind Transfers
+    * Health
+    * Education
+
 # Household Surveys
-  * India - National Sample Survey 2011-2012 (68th round) - Schedule 1.0 (Type 1) - Consumer Expenditure
+   * SENEGAL - ENQUETE DE SUIVI DE LA PAUVRETE AU SENEGAL 2011
     * Micro Data
-    * [**Questionnaires**](http://catalog.ihsn.org/index.php/catalog/3281/download/48293)
+    * Questionnaires
+     *  [**Individuals**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3953)
+     *  [**Households**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3954)
     * Related Publications
     * Related Links
-      * [**IHSN NSSS Consumption**](http://catalog.ihsn.org/index.php/catalog/3281) 
-  * India - Employment and Unemployment : NSS 68th round :July 2011- June 2012
-    * Micro Data
-    * [**Questionnaires**](http://www.ilo.org/surveydata/index.php/catalog/200/download/2125)
-    * Related Publications
-    * Related Links
-      * [**IHSN NSSS Consumption**](http://www.ilo.org/surveydata/index.php/catalog/200/related_materials) 
-      
+
+# Methodology
+
+# Do files
+
 # Public Finance Statistics
  * Public Finance Statistics
-  * [**Indian Public Finance Statistics**](http://finmin.nic.in/reports/IPFStat201213.pdf)
- * Tax revenue
-   *  [**Union**](http://indiabudget.nic.in/ub2013-14/rec/tr.pdf)
+ *  Tax revenue
+  * National 
   * Social Security
   * Public Expenditure
   * Social Expenditure
@@ -45,14 +54,6 @@
   * Education
   * Health
 
-# Description of Public Finance
-  * Taxes & Social Security Contributions
-  * Direct Transfers
-  * Subsidies
-  * In-Kind Transfers
-    * Health
-    * Education
-  
 # Macroeconomic, Poverty and Inequality  Data
   * GDP
   * PPP factors
