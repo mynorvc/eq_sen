@@ -12,7 +12,7 @@ See [**documents**](https://github.com/mynorvc/eq_sen/blob/master/docs.md)
 1.**ESTIMATION OF DISPOSABLE INCOME**
 
 2. **ESTIMATION OF CONSUMABLE INCOME**
-3*Indirect Taxes	
+* Indirect Taxes	
 
 3.**NET MARKET INCOME**
 * Direct Taxes
