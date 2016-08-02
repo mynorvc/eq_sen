@@ -9,13 +9,13 @@ See [**documents**](https://github.com/mynorvc/eq_sen/blob/master/docs.md)
 
 ## Scope
 
-1.	**ESTIMATION OF DISPOSABLE INCOME**
+1.**ESTIMATION OF DISPOSABLE INCOME**
 
 
 2. **ESTIMATION OF CONSUMABLE INCOME**
 	*Indirect Taxes	
 
-3.	**NET MARKET INCOME**
+3.**NET MARKET INCOME**
 	* Direct Taxes
 	* Contributions to Social Security
 
