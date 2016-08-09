@@ -42,8 +42,8 @@
   
 # Law
   * Tax
-    * Income Tax
-    * VAT
+    * [Fiscal Code - in french-](http://www.gouv.sn/IMG/pdf/cgi2013.pdf)
+    * [Royalties on Telecomunications](http://www.jo.gouv.sn/spip.php?article7199)
   * Social Security
 
 # Administrative Records Statistics
