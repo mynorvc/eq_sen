@@ -1,14 +1,14 @@
 #**Documents CEQ**
   * Manual September 2013
   
-#* Workbook
+# Workbook
     * Original Version 
     * UPDATES
       * ...
 
-#* Papers & Reports 
+# Papers & Reports 
 
-#* Description of Programs and Taxes
+# Description of Programs and Taxes
   * Taxes & Social Security Contributions
   * Direct Transfers
   * Subsidies
@@ -18,6 +18,7 @@
 
 # Household Surveys
    * SENEGAL - ENQUETE DE SUIVI DE LA PAUVRETE AU SENEGAL 2011
+    * [**Data Description**](http://www.ilo.org/surveydata/index.php/catalog/355/data_dictionary) 
     * Micro Data
     * Questionnaires
      *  [**Individuals**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3953)
