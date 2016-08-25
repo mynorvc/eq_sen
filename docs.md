@@ -66,8 +66,10 @@
    * Worldbank 
   * Poverty Lines
   * Inequality
-   * [Worldbank 40.3](http://data.worldbank.org/indicator/SI.POV.GINI?locations=SN)
-   * [Government of Senegal 37.8] (http://www.gcsenegal.gouv.sn/docs/GC2014-012%20-%20Note%20-%20Evaluation%20quantitative%20du%20DSRP-II.pdf)
+| Figure | Source |
+ -------- -------
+| 40.3   |  [Worldbank ](http://data.worldbank.org/indicator/SI.POV.GINI?locations=SN) |
+| 37.8   |  [Government of Senegal 37.8](http://www.gcsenegal.gouv.sn/docs/GC2014-012%20-%20Note%20-%20Evaluation%20quantitative%20du%20DSRP-II.pdf)|
   
   
 
