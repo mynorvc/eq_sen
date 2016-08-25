@@ -24,6 +24,7 @@
      *  [**Individuals**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3953)
      *  [**Households**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3954)
     * Related Publications
+     * [**DYNAMIQUE DE LA PAUVRETE MONETAIRE**](http://www.ilo.org/surveydata/index.php/catalog/355/download/3953)
     * Related Links
 
 # Methodology
@@ -62,8 +63,11 @@
   * National Disposable Income
   * Employment
   * Poverty
+   * Worldbank 
   * Poverty Lines
   * Inequality
+   * [Worldbank 40.3](http://data.worldbank.org/indicator/SI.POV.GINI?locations=SN)
+   * [Government of Senegal 37.8] (http://www.gcsenegal.gouv.sn/docs/GC2014-012%20-%20Note%20-%20Evaluation%20quantitative%20du%20DSRP-II.pdf)
   
   
 
