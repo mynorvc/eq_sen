@@ -65,16 +65,21 @@
   * Poverty
    * Worldbank 
   * Poverty Lines
-   *                   Extreme       Moderate
-    * Dakar           13 474         30 829
-    * Other Urban     12 736         24 603 
-    * Rural           11 548         18 434
+ 
+ |   Region     |  Extreme      | Moderate | 
+ |--------------|---------------| ---------|
+ |  Dakar       |    13 474     |   30 829 |
+ |  Other Urban |    12 736     |   24 603 | 
+ |  Rural       |    11 548     |   18 434 |
+ 
 
   
   * Inequality
 
-  * Gini  40.3     [*World Bank*](http://data.worldbank.org/indicator/SI.POV.GINI?locations=SN)
-  * Gini  30.8     [*Groupe Consultatif of Sengal*](http://www.gcsenegal.gouv.sn/docs/GC2014-012%20-%20Note%20-%20Evaluation%20quantitative%20du%20DSRP-II.pdf)
+| Gini  | Unit of analysis  |  Source |
+|-------|-------------------|---------|
+| 40.3  | Per Capita        | [*World Bank*](http://data.worldbank.org/indicator/SI.POV.GINI?locations=SN)  |
+| 30.8  | Adult Equivalent  | [*Groupe Consultatif of Senegal*](http://www.gcsenegal.gouv.sn/docs/GC2014-012%20-%20Note%20-%20Evaluation%20quantitative%20du%20DSRP-II.pdf) |
 
 
 
